@@ -6,11 +6,11 @@ This project explores the impact of Multi-Scale Convolutional Neural Networks (C
 ## Models
 ### EEGNet
 EEGNet is a specialized CNN model designed for EEG signal classification. It consists of a temporal convolutional layer followed by depthwise and separable convolutions that handle spatial filtering. The final fully connected layer integrates the features for classification. The architecture is optimized for efficiency, making it suitable for real-time BCI applications.  
-![EEGNet Architecture](https://drive.google.com/file/d/1mWfOeVIOi5nSba6tOWRaVlQioJ6cmGvC/view?usp=sharing))
+![EEGNet Architecture](https://drive.google.com/uc?export=view&id=1mWfOeVIOi5nSba6tOWRaVlQioJ6cmGvC)
 
 ### MSTANN
 The Multi-Scale Temporal Attention Neural Network (MSTANN) is an advanced model that enhances EEGNet by incorporating multi-scale temporal feature extraction. The model uses three 1D convolutional layers with kernel sizes of 3, 11, and 19 to capture different temporal patterns in the EEG data. These feature maps are then concatenated and further processed for classification, making MSTANN adept at capturing nuanced temporal features.  
-![MSTANN Architecture](https://drive.google.com/file/d/15vBuAUMYisOPryKNCydT_-pqWAziJXhR/view?usp=sharing)
+![MSTANN Architecture](https://drive.google.com/uc?export=view&id=15vBuAUMYisOPryKNCydT_-pqWAziJXhR)
 
 ## Dataset
 The EEG data utilized in this project is sourced from the [BCI Competition IV 2a](http://www.bbci.de/competition/iv/#dataset2a) dataset. Key characteristics of the dataset include:
