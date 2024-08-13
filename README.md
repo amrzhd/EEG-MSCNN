@@ -71,4 +71,4 @@ If you use this code or the models in your work, please cite the original papers
 
 If you used the dataset in your work, please cite the original paper of it:
 
-- [Brunner, C., Leeb, R., Müller-Putz, G., Schlögl, A., & Pfurtscheller, G. (2008). BCI Competition 2008–Graz data set A. Institute for knowledge discovery (laboratory of brain-computer interfaces), Graz University of Technology, 16, 1-6.](https://lampz.tugraz.at/~bci/database/001-2014/description.pdf)
+[Brunner, C., Leeb, R., Müller-Putz, G., Schlögl, A., & Pfurtscheller, G. (2008). BCI Competition 2008–Graz data set A. Institute for knowledge discovery (laboratory of brain-computer interfaces), Graz University of Technology, 16, 1-6.](https://lampz.tugraz.at/~bci/database/001-2014/description.pdf)
