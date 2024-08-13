@@ -67,8 +67,8 @@ If you use this code or the models in your work, please cite the original papers
 
 - [Lawhern, V. J., Solon, A. J., Waytowich, N. R., Gordon, S. M., Hung, C. P., & Lance, B. J. (2018). EEGNet: a compact convolutional neural network for EEG-based brain–computer interfaces. Journal of neural engineering, 15(5), 056013.](https://iopscience.iop.org/article/10.1088/1741-2552/aace8c)
 
-[Wu, R., Jin, J., Daly, I., Wang, X., & Cichocki, A. (2023). Classification of motor imagery based on multi-scale feature extraction and the channeltemporal attention module. IEEE Transactions on Neural Systems and Rehabilitation Engineering.](https://ieeexplore.ieee.org/iel7/7333/4359219/10180110.pdf)
+- [Wu, R., Jin, J., Daly, I., Wang, X., & Cichocki, A. (2023). Classification of motor imagery based on multi-scale feature extraction and the channeltemporal attention module. IEEE Transactions on Neural Systems and Rehabilitation Engineering.](https://ieeexplore.ieee.org/iel7/7333/4359219/10180110.pdf)
 
 If you used the dataset in your work, please cite the original paper of it:
 
-[Brunner, C., Leeb, R., Müller-Putz, G., Schlögl, A., & Pfurtscheller, G. (2008). BCI Competition 2008–Graz data set A. Institute for knowledge discovery (laboratory of brain-computer interfaces), Graz University of Technology, 16, 1-6.](https://lampz.tugraz.at/~bci/database/001-2014/description.pdf)
+- [Brunner, C., Leeb, R., Müller-Putz, G., Schlögl, A., & Pfurtscheller, G. (2008). BCI Competition 2008–Graz data set A. Institute for knowledge discovery (laboratory of brain-computer interfaces), Graz University of Technology, 16, 1-6.](https://lampz.tugraz.at/~bci/database/001-2014/description.pdf)
