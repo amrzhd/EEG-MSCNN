@@ -50,15 +50,6 @@ The models were trained using the following parameters:
 - **Learning Rate**: 0.001
 - **Loss Function**: Cross Entropy
 
-## Feature Extraction
-A feature extraction class was implemented to demonstrate how each model extracts temporal features. The features from different layers are concatenated and visualized using methods such as PCA and t-SNE. Additionally, techniques like saliency maps and DeepLIFT were employed to analyze feature importance and understand the decision-making process of the models.
-
-### Methods Included:
-- **Feature Extraction**: Extracts and concatenates features from the different layers of the models.
-- **PCA/t-SNE Visualization**: Visualizes the extracted features in a 2D space to analyze class separability.
-- **Saliency Maps**: Highlights the most important features influencing the model's predictions.
-- **DeepLIFT Analysis**: Provides insights into the contribution of each input feature to the model's output.
-
 ## Conclusion
 This project highlights the potential of multi-scale CNNs in enhancing EEG-based BCI classification. By comparing EEGNet and MSTANN, it demonstrates how richer temporal feature extraction can improve model performance in EEG signal classification.
 
